@@ -1,0 +1,16 @@
+button{
+    padding: 14px;
+}
+
+.sim{
+    background-color: #45f35c;
+    color: #1d4422;
+}
+.nao{
+    background-color: #f83737;
+    color: #421313;
+}
+.recu{
+    background-color: #f8ab37;
+    color: #55370b;
+}
